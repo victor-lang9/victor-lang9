@@ -27,8 +27,8 @@ Busco sempre aprender novas linguagens e frameworks para criar soluções eficie
 
 ## 📊 Estatísticas do GitHub
 
-![Estatísticas](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
-![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![Estatísticas](https://github-readme-stats.vercel.app/api?username=victor-lang9&show_icons=true&theme=tokyonight)
+![Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=victor-lang9&layout=compact&theme=tokyonight)
 
 ---
 
