@@ -5,7 +5,7 @@
 
 💻 Estudante do **Curso Técnico em Desenvolvimento de Sistemas** no **IFPR**.  
 🔥 Focado em **programação**, **lógica** e **desenvolvimento web**.  
-🚀 Atualmente aprendendo **PHP**, **Python**, **HTML**, **CSS** e **MySQL**.
+🚀 Atualmente aprendendo **PHP**, **Python**, **HTML**, **CSS**, **JavaScript** e **MySQL**.
 
 ---
 
@@ -22,6 +22,7 @@ Busco sempre aprender novas linguagens e frameworks para criar soluções eficie
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 ---
 
